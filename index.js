@@ -1,31 +1,3 @@
-/*console.log("this shit bussin!");
-console.log("its so great");
-
-window.alert("I DONT HAVE SEX I FUCK LMAO X'D")
-
-//this is how to comment 
-
-
-multi line comments work like this bitch 
-
-
-
-let firstName = "sandwhoch";// string 
-let x = 2;//nums 
-
-x = x + 1;
-let b = "21" + 1; // this will concatinate it 
-let student = false; // booleans 
-
-
-
-//console.log(age)
-console.log(x)
-console.log(firstName)
-console.log(student);
-console.log("youre" , age, " years old");
-*/ 
-
 const cells = document.querySelectorAll(".cell");
 const statusText = document.querySelector("#statusText");
 const restartBtn = document.querySelector("#restartBtn");
