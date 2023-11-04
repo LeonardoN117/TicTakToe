@@ -5,4 +5,5 @@ Dylon Gaddi
 Robby Loeffler
 
 This is a broswer made game of tic tak toe that was made using HTML, CSS, and vanilla JavaScript
+
 If game is unresponsive, click the restart button
